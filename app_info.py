@@ -3,8 +3,8 @@
 
 config = {'mode': "", 'font': 0}
 
-sidebar_image = "images/HAL.jpg"
-title_image = "images/convertio.jpg"
+sidebar_image = "HAL.jpg"
+title_image = "convertio.jpg"
 
 instructions = ["- Choose the convertion options in the sidebar.",
                 "- Pres the submit button for every update."]
