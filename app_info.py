@@ -3,7 +3,7 @@
 
 config = {'mode': "", 'font': 0}
 
-sidebar_image = "HAL.jpg"
+sidebar_image = "https://raw.githubusercontent.com/Gamer-Deity/Convert.io/main/Images/HAL.jpg"
 title_image = "convertio.jpg"
 
 instructions = ["- Choose the convertion options in the sidebar.",
