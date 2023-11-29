@@ -1,6 +1,5 @@
 import streamlit as st
 import app_info
-import pandas as pd
 
 
 #Helper Functions
